@@ -1,0 +1,4 @@
+Initial relaxation complete, starting the main simulation.
+The simulation has completed at t=2.40e+04.
+final free energy change: -1.26e-02
+Average time step: 4.00e-04
