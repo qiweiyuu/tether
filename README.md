@@ -3,7 +3,8 @@
 This repository contains code, simulation outputs, and figure notebooks for:
 
 **Membrane-anchored mobile tethers modulate condensate wetting, localization, and migration**  
-BioRxiv preprint: https://www.biorxiv.org/content/10.1101/2024.12.04.626804v3
+*PRX Life* (2026). DOI: https://doi.org/10.1103/kxpb-9srd  
+Preprint: https://www.biorxiv.org/content/10.1101/2024.12.04.626804v3
 
 ## Repository Layout
 
@@ -40,6 +41,8 @@ This repository currently contains precomputed simulation data for plotting Fig.
 
 ## Citation
 
-If you use this repository, please cite the associated preprint:
+If you use this repository, please cite the associated article:
 
-Qiwei Yu et al., *Membrane-anchored mobile tethers modulate condensate wetting, localization, and migration*, BioRxiv (2024), https://www.biorxiv.org/content/10.1101/2024.12.04.626804v3
+Qiwei Yu et al., *Membrane-anchored mobile tethers modulate condensate wetting, localization, and migration*, *PRX Life* (2026), https://doi.org/10.1103/kxpb-9srd
+
+Preprint: https://www.biorxiv.org/content/10.1101/2024.12.04.626804v3
